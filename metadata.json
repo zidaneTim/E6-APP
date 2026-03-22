@@ -1,0 +1,5 @@
+{
+  "name": "Assistant E6 SAPAT - Analyseur de Rapport",
+  "description": "Application d'analyse pédagogique pour les rapports de l'épreuve E6 du Bac Pro SAPAT. Évalue la conformité au référentiel MASA et propose des pistes d'amélioration.",
+  "requestFramePermissions": []
+}
